@@ -1,16 +1,37 @@
-## Hi there 👋
+# 👋 Hi! I'm Nicolás Rivas (nrivas03)  
+[![Pronouns](https://img.shields.io/badge/Pronouns-he%2Fhim-blue)](https://www.mypronouns.org/he-him)
 
-<!--
-**nrivas03/nrivas03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
 
-Here are some ideas to get you started:
+👨🏻‍🎓 **Computer Science Student**  
+💻 **Full Stack Developer** with experience in both frontend and backend  
+⚛️ **Quantum Computing Researcher** – exploring the integration between classical and quantum computing
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 Technologies and Tools
+
+- **Frontend:** Vue.js, Nextjs, React
+- **Mobile:** React Native, Flutter
+- **Backend:** Spring Boot, NestJS, Flask
+- **Development Tools:** Docker
+- **Languages:** Java, JavaScript, TypeScript, Python, SQL
+
+---
+
+## 🌱 Currently Working On
+
+- **Thesis:** Hybrid architecture for classical and quantum computing integration
+- **Full Stack Project:** *e-transparencia*, a project focused on transparency and data management  
+- **Personal Projects:** Improving my full stack skills and quantum optimization
+
+---
+
+## 📫 How to reach me?
+
+- **Email:** [ni.rivas219@gmail.com](mailto:ni.rivas219@gmail.com)
+- **LinkedIn:** [nicolas-rivas-linkedin](https://www.linkedin.com/in/nicolás-ignacio-rivas-sagredo-b303282b2)
+
+Always open to collaborate on interesting projects!
+
+---
