@@ -3,7 +3,7 @@
 
 ## About Me
 
-👨🏻‍🎓 **Computer Science Student**  
+👨🏻‍🎓 **Software Engineer**  
 💻 **Full Stack Developer** with experience in both frontend and backend  
 ⚛️ **Quantum Computing Researcher** – exploring the integration between classical and quantum computing
 
@@ -21,8 +21,6 @@
 
 ## 🌱 Currently Working On
 
-- **Thesis:** Hybrid architecture for classical and quantum computing integration
-- **Full Stack Project:** *e-transparencia*, a project focused on transparency and data management  
 - **Personal Projects:** Improving my full stack skills and quantum optimization
 
 ---
